@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-plugin-benchmarks",
+  "private": true,
+  "description": "Gatsby Benchmark Reporting",
+  "version": "0.0.0",
+  "author": "Peter van der Zee <pvdz@github>",
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby.git",
+    "directory": "packages/gatsby-plugin-benchmarks"
+  }
+}
